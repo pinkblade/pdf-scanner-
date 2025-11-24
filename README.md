@@ -1,3 +1,4 @@
+![vid](https://github.com/user-attachments/assets/df91923a-f481-471b-bef5-13554c549ec7)
 # PDF-Doc-Scan
 Android PDF document scanning app
 
