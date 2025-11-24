@@ -47,5 +47,4 @@ if (pdfInfo.firstOrNull()?.activityInfo?.enabled == true) {
 }
 ```
 
-### Comments
-Made this as a prototype while learning Compose framework in late 2021
+
